@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=betaxue&theme=tokyonight&show_icons=true" />
 
-<!--
-**BetaXue/BetaXue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🚒 Xue Bing | Beta Xue
 
-Here are some ideas to get you started:
+- 网   站: http://betaxue.com
+- 微   信: BetaXue
+- 经   历：中间件/基础架构 | 业务架构 | 应用架构 | 中台架构
+    - 高级开发工程师
+- 专注于基础架构，中间件研发以及中台建设落地
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 开源项目
+
+ - [`Munchee`](https://github.com/BetaXue)是将DDD，洋葱架构，整洁架构，读写分离架构有机整合一起，基于业务身份+扩展点的设计思想，采用应用内部流程编排的方式形成
