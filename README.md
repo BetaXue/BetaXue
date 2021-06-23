@@ -2,6 +2,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betaxue&count_private=true&langs_count=8&hide=html,css&layout=compact" height="180"/>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 👨‍🚒 Xue Bing | Beta Xue
