@@ -1,5 +1,5 @@
 <a href="https://github.com/betaxue"><img src="https://github-readme-stats.vercel.app/api?username=betaxue&count_private=true" height="180" /></a> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betaxue&langs_count=8&layout=compact" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betaxue&langs_count=8" height="180" />
 
 
 ## 👨‍🚒 Xue Bing | Beta Xue
