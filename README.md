@@ -1,4 +1,4 @@
-<a href="https://github.com/betaxue"><img src="https://github-readme-stats.vercel.app/api?username=betaxue&count_private=true" height="180" /></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betaxue&count_private=true&langs_count=8&hide=html,css&layout=compact" height="180" />
+<a href="https://github.com/betaxue"><img src="https://github-readme-stats.vercel.app/api?username=betaxue&count_private=true" height="180" /></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betaxue" height="180" />
 
 
 ## 👨‍🚒 Xue Bing | Beta Xue
