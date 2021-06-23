@@ -2,7 +2,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betaxue&layout=compact)](https://github.com/betaxue)
 
 
-
 ## 👨‍🚒 Xue Bing | Beta Xue
 
 - 网   站: http://betaxue.com
