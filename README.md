@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<img width="50%" align="top" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=betaxue&layout=compact&langs_count=8">
+<img width="50%" align="top" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=BetaXue&layout=compact&langs_count=8">
 
 <br>
 
