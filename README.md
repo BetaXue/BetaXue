@@ -4,16 +4,19 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a align="center" href="https://github.com/betaxue">
-
-<!--   <img height="195" align="left" src="https://github-readme-stats-one-mu-82.vercel.app/api?username=BetaXue&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> -->
-  <img width="50%" align="top" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=cgqaq&layout=compact&langs_count=8">
-
-
-
-  - 👋 Hi, I’m @BetaXue
-  - 👀 I’m interested in Java, C++ and all that kind of stuffs
-  - 🌱 I’m currently learning and contributing to the Lansintech project
-  - 🚀 [Spring](https://github.com/spring/spring) enthusiast
+  <table>
+      <tr>
+          <td width="30%">
+              <img width="50%" align="top" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=betaxue&layout=compact&langs_count=8"/>
+          </td>
+          <td width="70%">
+              - 👋 Hi, I’m @BetaXue
+              - 👀 I’m interested in Java, C++ and all that kind of stuffs
+              - 🌱 I’m currently learning and contributing to the Lansintech project
+              - 🚀 [Spring](https://github.com/spring/spring) enthusiast
+          </td>
+      </tr>
+  </table>
 </a>
 
 <br>
