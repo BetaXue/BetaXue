@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <!--   <img height="195" align="left" src="https://github-readme-stats-one-mu-82.vercel.app/api?username=BetaXue&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> -->
   <img width="50%" align="top" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=cgqaq&layout=compact&langs_count=8">
 
-  <br>
+
 
   - 👋 Hi, I’m @BetaXue
   - 👀 I’m interested in Java, C++ and all that kind of stuffs
