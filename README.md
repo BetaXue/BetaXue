@@ -10,10 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<img width="50%" align="top" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=BetaXue&layout=compact&langs_count=8">
-
-<br>
-
 ![](profile-3d-contrib/profile-season-animate.svg)
 
 ## 访问量： 
