@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <a align="center" href="https://github.com/betaxue">
   <table>
       <tr>
-          <td width="30%">
+          <td width="30%" height="100%">
               <img width="50%" align="top" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=betaxue&layout=compact&langs_count=8">
           </td>
           <td width="70%">
